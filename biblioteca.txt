@@ -1,11 +1,12 @@
-Cinci saptamani in balon|Jules Verne|Aventuri|Raftul 4|1|0
-O calatorie spre centrul Pamantului|Jules Verne|Aventuri|Raftul 4|0|3
-Cei trei muschetari|Alexandre Dumas|Roman de aventuri|Raftul 3|1|0
-Moby Dick|Herman Melville|Roman|Raftul 6|1|0
-Harry Potter si Piatra Filozofala|J.K. Rowling|Fantasy|Raftul 5|1|0
-Detective Stories|Arthur Conan Doyle|Povestiri politiste|Raftul 7|1|0
-Game of Thrones|George R. R. Martin|Fantasy|Raftul 8|1|0
-Cocosatul de la Notre-Dame|Victor Hugo|Roman istoric|Raftul 2|0|7
-Pride and Prejudice|Jane Austen|Roman|Raftul 1|1|0
-1984|George Orwell|Dystopian|Raftul 9|1|0
-Crush It!|Gary Vaynerchuk|non-fictiune|2|1|0
+Cinci saptamani in balon|Jules Verne|Aventuri|Raftul 4|1|0|10/04/2025
+O calatorie spre centrul Pamantului|Jules Verne|Aventuri|Raftul 4|0|3|09/04/2025
+Cei trei muschetari|Alexandre Dumas|Roman de aventuri|Raftul 3|1|0|08/04/2025
+Moby Dick|Herman Melville|Roman|Raftul 6|1|0|12/04/2025
+Harry Potter si Piatra Filozofala|J.K. Rowling|Fantasy|Raftul 5|1|0|11/04/2025
+Detective Stories|Arthur Conan Doyle|Povestiri politiste|Raftul 7|1|0|13/04/2025
+Game of Thrones|George R. R. Martin|Fantasy|Raftul 8|1|0|09/04/2025
+Cocosatul de la Notre-Dame|Victor Hugo|Roman istoric|Raftul 2|0|7|10/04/2025
+Pride and Prejudice|Jane Austen|Roman|Raftul 1|1|0|05/04/2025
+1984|George Orwell|Dystopian|Raftul 9|1|0|08/04/2025
+Crush It!|Gary Vaynerchuk|non-fictiune|2|1|0|13/04/2025
+Crushing It!|Gary Vaynerchuk|non-fictiune|4|1|0|10/11/2025
