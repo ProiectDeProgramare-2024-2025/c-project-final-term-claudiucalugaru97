@@ -1,0 +1,11 @@
+Cinci saptamani in balon|Jules Verne|Aventuri|Raftul 4|1|0
+O calatorie spre centrul Pamantului|Jules Verne|Aventuri|Raftul 4|0|3
+Cei trei muschetari|Alexandre Dumas|Roman de aventuri|Raftul 3|1|0
+Moby Dick|Herman Melville|Roman|Raftul 6|1|0
+Harry Potter si Piatra Filozofala|J.K. Rowling|Fantasy|Raftul 5|1|0
+Detective Stories|Arthur Conan Doyle|Povestiri politiste|Raftul 7|1|0
+Game of Thrones|George R. R. Martin|Fantasy|Raftul 8|1|0
+Cocosatul de la Notre-Dame|Victor Hugo|Roman istoric|Raftul 2|0|7
+Pride and Prejudice|Jane Austen|Roman|Raftul 1|1|0
+1984|George Orwell|Dystopian|Raftul 9|1|0
+Crush It!|Gary Vaynerchuk|non-fictiune|2|1|0
