@@ -187,6 +187,7 @@ void adaugaCarte() {
     carti[nrCarti].zile_ramase = 0;
     
     nrCarti++;
+    salveazaDateInFisier();
     printf("Cartea a fost adăugată cu succes!\n");
 }
 
@@ -307,6 +308,7 @@ void imprumutaCarte() {
     carti[index].disponibil = 0;
     carti[index].zile_ramase = 10;
     printf("Cartea \"%s\" a fost împrumutată pentru 10 zile.\n", carti[index].titlu);
+    salveazaDateInFisier();
 }
 
 void returneazaCarte() {
@@ -348,6 +350,7 @@ void returneazaCarte() {
     carti[index].disponibil = 1;
     carti[index].zile_ramase = 0;
     printf("Cartea \"%s\" a fost returnată.\n", carti[index].titlu);
+    salveazaDateInFisier();
 }
 
 void submeniuCautare() {
